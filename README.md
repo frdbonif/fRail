@@ -4,6 +4,10 @@ Quick links for train crew and operational staff on the West of England's railwa
 ## What is it?
 fRail is a simple set of web pages with links to useful resources for train crew and operational railway staff.
 
+Tiger is used for links to live arrival and departure boards where possible but isn't available for all stations, particularly those operated by SWR.
+
+Traksy is used for links to signalling maps, Tornado is a good resource but is slower due to the fact your Genius login is required for access.
+
 ## Why?
 For train crew and operational & customer service staff, there is lots of information available to help us do our jobs.  Two very useful resources are live arrivals/departures and live signalling maps.
 
