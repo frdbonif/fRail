@@ -32,4 +32,6 @@ Currently pages are available for the following areas:
 ## Contribute
 If you think that fRail would be useful to you but a suitable page isn't available then please feel free to create it and submit a pull request.
 
+The master branch is automatically pulled onto the webserver daily so it can take upto 24hrs for any committed changes to become available.
+
 If you don't know how to create a page then just submit an issue detailing what information you'd want available on the page and it will be added if appropriate.
