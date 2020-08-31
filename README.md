@@ -1,7 +1,12 @@
 # fRail
 Quick links for train crew and operational staff on the West of England's railway routes.
 
-## What is it?
+## Where?
+fRail is currently hosted at frail.fjla.uk.
+
+It is easy to navigate, on the home page there is a button for each Network Rail Route, this is then split into Franchise and then station.  For example GWR Bristol Temple Meads (West) would be Home > Western > Greater West > Bristol (West).
+
+## What?
 fRail is a simple set of web pages with links to useful resources for train crew and operational railway staff.
 
 Tiger is used for links to live arrival and departure boards where possible but isn't available for all stations, particularly those operated by SWR.
