@@ -13,6 +13,8 @@ For train crew and operational & customer service staff, there is lots of inform
 
 These are not, however, the easiest resources to access so fRail puts all the links you need on one page, tailored to your location.
 
+Simple is key, many people that would find this useful are not tech savvy and need information quickly, the idea is that a user has one link that provides everything they need as-is with no options or settings.
+
 ## Who?
 fRail is available for anyone who finds it useful, not just that but the underlying code is available for anyone to use under the BSD 2-clause lisence.
 
