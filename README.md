@@ -21,3 +21,8 @@ To keep the pages compact and simple, each page is dedicated to a train crew dep
 Currently pages are available for the following areas:
 
 - Bristol Temple Meads (West) (WIP)
+
+## Contribute
+If you think that fRail would be useful to you but a suitable page isn't available then please feel free to create it and submit a pull request.
+
+If you don't know how to create a page then just submit an issue detailing what information you'd want available on the page and it will be added if appropriate.
