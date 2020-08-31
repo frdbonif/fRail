@@ -1,5 +1,5 @@
 # fRail
-Quick links for train crew and operational staff on the West of England's railway routes.
+Quick links for train crew and operational staff on the UK's railway routes.
 
 ## Where?
 fRail is currently hosted at frail.fjla.uk.
