@@ -5,6 +5,11 @@
     text-align: center;
 }
 
+h2 {
+    size: xx-large;
+    font-style: italic;
+}
+
 body {
     background-color: lightslategray;
 }
@@ -25,8 +30,9 @@ body {
     color: white;
     padding: 15px 15px;
     text-decoration: none;
-    width: 100%;
-    font-size: medium;
+    width: 90%;
+    height: 130px;
+    font-size: xx-large;
     margin: 4px 4px;
 }
 
@@ -37,7 +43,8 @@ body {
     text-decoration: none;
     display: inline-block;
     width: 45%;
-    font-size: medium;
+    height: 100px;
+    font-size: xx-large;
     margin: 4px 4px;
 }
 
