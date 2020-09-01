@@ -23,6 +23,7 @@ body {
 .button {
     border: none;
     color: white;
+    font-size: medium;
     padding: 15px 15px;
     text-decoration: none;
     width: 100%;
@@ -33,6 +34,7 @@ body {
 .buttonar {
     border: none;
     color: white;
+    font-size: medium;
     padding: 15px 15px;
     text-decoration: none;
     display: inline-block;
