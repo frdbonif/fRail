@@ -5,6 +5,11 @@
     text-align: center;
 }
 
+h2 {
+    size: xx-large;
+    font-style: italic;
+}
+
 body {
     background-color: lightslategray;
 }
@@ -38,7 +43,7 @@ body {
     text-decoration: none;
     display: inline-block;
     width: 45%;
-    height: 130px;
+    height: 100px;
     font-size: xx-large;
     margin: 4px 4px;
 }
