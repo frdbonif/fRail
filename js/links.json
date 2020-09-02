@@ -1,0 +1,13 @@
+{
+    "stations": {
+        "bri" : "https://address",
+        "tro" : "https://address",
+        "bth" : "https://address"
+    },
+
+    "maps": {
+        "bri" : "https://address",
+        "sou" : "https://address",
+        "pmh" : "https://address"
+    }
+}
