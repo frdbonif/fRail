@@ -55,3 +55,19 @@ body {
 .buttonB {
     background-color: rgb(82, 82, 255);
 }
+
+.buttonA:hover {
+    background-color: darkblue;
+}
+
+.buttonB:hover {
+    background-color: darkblue;
+}
+
+.buttonA:active {
+    background-color: whitesmoke;
+}
+
+.buttonB:active {
+    background-color: whitesmoke;
+}
