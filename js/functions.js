@@ -10,6 +10,8 @@ XMLHttpRequest.onreadystatechange = function() {
 xmlhttp.open("GET", "/js/links.json", true);
 xmlhttp.send();
 
+console.log(linksObj)
+
 function stnLink(crs) {
   console.log(`Looking up Arr/Dep link for ${crs}`);
 }
