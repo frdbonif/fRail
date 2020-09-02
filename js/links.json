@@ -25,7 +25,10 @@
 
     "maps": {
         "bri" : "https://address",
-        "sou" : "https://address",
-        "pmh" : "https://address"
+        "cdf" : "https://address",
+        "dch" : "https://address",
+        "glc" : "https://address",
+        "pmh" : "https://address",
+        "sou" : "https://address"
     }
 }
