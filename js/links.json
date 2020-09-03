@@ -1,0 +1,34 @@
+{
+    "stations": {
+        "bth" : "https://address",
+        "bpw" : "https://address",
+        "bri" : "https://address",
+        "cdf" : "https://address",
+        "clc" : "https://address",
+        "cnm" : "https://address",
+        "cfn" : "https://address",
+        "dch" : "https://address",
+        "fit" : "https://address",
+        "ftn" : "https://address",
+        "gcr" : "https://address",
+        "mdn" : "https://address",
+        "nwp" : "https://address",
+        "sal" : "https://address",
+        "sou" : "https://address",
+        "swi" : "https://address",
+        "tau" : "https://address",
+        "tro" : "https://address",
+        "wsb" : "https://address",
+        "wsm" : "https://address",
+        "pms" : "https://address"
+    },
+
+    "maps": {
+        "bri" : "https://address",
+        "cdf" : "https://address",
+        "dch" : "https://address",
+        "glc" : "https://address",
+        "pmh" : "https://address",
+        "sou" : "https://address"
+    }
+}
