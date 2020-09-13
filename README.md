@@ -2,7 +2,7 @@
 Quick links for train crew and operational staff on the UK's railway routes.
 
 ## Where?
-fRail is currently hosted at frail.fjla.uk.
+fRail is currently hosted at test-frail.fjla.uk.
 
 It is easy to navigate, on the home page there is a button for each Network Rail Route, this is then split into Franchise and then station.  For example GWR Bristol Temple Meads (West) would be Home > Western > Greater West > Bristol (West).
 
