@@ -32,7 +32,7 @@ body {
     background-color: rgb(82, 82, 255);
 }
 
-.buttonBTitle {
+.buttonTitle {
     background-color: rgb(82, 82, 255);
     font-weight: bold;
 }
@@ -45,7 +45,7 @@ body {
     background-color: darkblue;
 }
 
-.buttonBTitle:hover {
+.buttonTitle:hover {
     background-color: darkblue;
 }
 
