@@ -34,7 +34,7 @@ body {
 
 .buttonTitle {
     background-color: rgb(82, 82, 255);
-    font-weight: bold;
+    font-weight: 700;
 }
 
 .buttonA:hover {
